@@ -1,8 +1,13 @@
-#Cybersecurity Journey -Rajat
+#Cybersecurity Journey-Rajat
 
-Learning cybersecurity in public.
-Not an expert.
-Building tools,solving CTFs,making mistakes.
+I am a college student learning cybersecurity honestly.
 
 
-This repository documents my real learning journey.
+This repository documents:
+ -Linux & networking basics
+ -CTFnotes
+ -Tools practice
+ -Mistakes and fixes
+
+
+Status: Learning in public.Not an export.
