@@ -9,11 +9,11 @@
 
 ⚠️ Ground Rules (jo main follow kar raha hoon)
 
-● ❌ Illegal hacking nahi
-● ❌ Fake “expert” claims nahi
-● ✅ Pehle seekhna, phir practice
-● ✅ Jo seekha, usko document karna
-● ✅ Proof > certificates > followers
+● ❌ Illegal hacking nahi 
+● ❌ Fake “expert” claims nahi 
+● ✅ Pehle seekhna, phir practice  
+● ✅ Jo seekha, usko document karna 
+● ✅ Proof > certificates > followers 
 
 
 🧠 Phase 0 — Foundation & Setup (Day 0–7)
