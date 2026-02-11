@@ -82,7 +82,7 @@ Strong basics banana-- bina foundation ke Red Team possible hi nahi.
 
 ## 🔐 Security Thinking
 
-- OWASP Top 10 (2026 version)
+- OWASP Top 10
 - Authentication vs Authorization
 - Attack surface concept
 
@@ -156,7 +156,7 @@ Entry-level Red Team / Security role ke liye prepare hona.
 ## 🧩 Real workflow samjhna
 Recon → Exploit → Escalate → Report
 
-Realistic approach (movie hacking nahi)
+Realistic approach (not movie hacking)
 
 ---
 
