@@ -1,54 +1,62 @@
 # Cybersecurity Journey — Rajat Singh 🔐
 
-👋 Hi, I’m Rajat  
-🎓 Diploma Computer Science student  
+👋 Hi, I'm Rajat  
+🎓 Diploma in Computer Science  
 📍 India  
 
-I’m learning cybersecurity **honestly and publicly** — no fake expertise, no shortcuts.
-
-
----
-
-## 🎯 Purpose of this Repository
-This repo documents my complete learning journey:
-- What I learn
-- What I break
-- What I fix
-- What I understand late 😄
-
-
-So recruiters, mentors, and beginners can see **real growth**.
+I am learning cybersecurity **publicly and systematically** — focusing on fundamentals, practical application, and documented progress.
 
 ---
 
-## 🧠 What I’m Learning
-- Linux fundamentals
-- Computer networking
-- Web security basics
-- Ethical hacking tools
-- CTF problem solving
-- Real-world security mindset
+## 🎯 Objective
+
+This repository documents my structured learning journey:
+
+- Concepts I study  
+- Labs I practice  
+- Tools I explore  
+- Projects I build  
+- CTF challenges I solve  
+
+The goal is to demonstrate consistent growth, practical understanding, and technical discipline.
+
+---
+
+## 🧠 Learning Focus Areas
+
+- Linux Fundamentals  
+- Computer Networking  
+- Web Security (OWASP Top 10)  
+- Ethical Hacking Tools  
+- Capture The Flag (CTF) Practice  
+- Security Mindset & Threat Thinking  
 
 ---
 
 ## 📂 Repository Structure
-- `01-linux-basics` → Linux commands, concepts
-- `02-networking` → TCP/IP, ports, protocols
-- `03-web-security` → OWASP, vulnerabilities
-- `04-tools` → Nmap, Burp, etc.
-- `05-ctf-writeups` → Beginner-friendly CTF notes
-- `06-projects` → Small security projects
-- `08-freelancing` → Learning how to earn ethically
-- `09-linkedin-github-brand` → Personal branding
+
+- `00-roadmap` → Learning plan & milestones  
+- `01-linux-basics` → Linux commands & concepts  
+- `02-networking` → TCP/IP, ports, protocols  
+- `03-web-security` → Vulnerabilities & defenses  
+- `04-tools` → Nmap, Burp Suite, etc.  
+- `05-ctf-writeups` → Documented CTF solutions  
+- `06-projects` → Practical security mini-projects  
+- `07-notes` → Quick reference & theory notes  
+- `08-freelancing` → Ethical earning roadmap  
+- `09-linkedin-github-brand` → Professional branding  
 
 ---
 
 ## ⚠️ Disclaimer
-This repository is for **learning & educational purposes only**.  
-No illegal activities. No misuse.
+
+All content is for **educational purposes only**.  
+No illegal testing. No unauthorized access.
 
 ---
 
 ## 📬 Connect
+
 GitHub: https://github.com/rajatsec  
-Learning in public 🚀
+
+Learning in public. Building in discipline.
